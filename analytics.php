@@ -1,7 +1,7 @@
 <?php
 
-define('AWS_IOT_CREDENTIALS_KEY','AKIAQIO732VQA6PNAR4L');
-define('AWS_IOT_CREDENTIALS_SECRET','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');
+define('AWS_IOT_CREDENTIALS_KEY','-');
+define('AWS_IOT_CREDENTIALS_SECRET','edWGKr0S');
 require 'vendor/autoload.php';
 
 class IoTAnalyticsHandler {
